@@ -1,10 +1,10 @@
 <div align="center">
 
 <h2>Hi, I'm Shivam 👋</h2>
-<p><b>Intermediate Full Stack Web Developer</b></p>
+<p><b> Full Stack Developer</b></p>
 
 <p>
-MERN • Next.js • Production Apps • Clean Architecture
+MERN 
 </p>
 
 <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mongodb,mysql,html,css,tailwind,git,github,vercel" />
@@ -23,10 +23,10 @@ MERN • Next.js • Production Apps • Clean Architecture
 ---
 
 ### 🧠 About
-- Full Stack Web Developer (Intermediate)
+- Full Stack Web Developer 
 - Building real-world, production-ready apps
 - Focused on performance, security & scalability
-- Founder – **InvertisLibrary.com**
+-
 
 ---
 
@@ -48,9 +48,4 @@ MERN • Next.js • Production Apps • Clean Architecture
 
 ---
 
-### 📊 GitHub
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&hide_border=true&theme=transparent" />
-
-</div>
