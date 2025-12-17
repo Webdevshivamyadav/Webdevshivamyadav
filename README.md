@@ -6,10 +6,6 @@
 <h2>Hi, I'm Shivam Yadav 👋</h2>
 <p><b>Full Stack Developer</b></p>
 
-<p>
-MERN
-</p>
-
 <!-- SOCIAL LINKS -->
 <a href="https://www.instagram.com/dev.shivamyadav/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
