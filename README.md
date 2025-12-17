@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2>Hi, I'm Shivam 👋</h2>
+<h2>Hi, I'm Shivam Yadav👋</h2>
 <p><b> Full Stack Developer</b></p>
 
 <p>
@@ -26,20 +26,8 @@ MERN
 - Full Stack Web Developer 
 - Building real-world, production-ready apps
 - Focused on performance, security & scalability
--
 
----
 
-### 🛠 Tech Stack
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,react,next,nodejs,express" /><br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,tailwind,materialui" /><br/>
-<img src="https://skillicons.dev/icons?i=git,github,vercel,cloudinary" />
-
-</div>
-
----
 
 ### 🚀 Projects
 - **InvertisLibrary** – Student resource platform  
