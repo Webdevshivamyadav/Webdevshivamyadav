@@ -3,7 +3,7 @@
 <!-- TOP WATER / BLUE GRAPHIC -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=header" />
 
-<h2>Hi, I'm Shivam Yadav 👋</h2>
+<h2>Hi, I'm Shivam Yadav </h2>
 <p><b>Full Stack Developer</b></p>
 
 <!-- SOCIAL LINKS -->
