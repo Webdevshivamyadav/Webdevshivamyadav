@@ -11,12 +11,6 @@ MERN
 
 <br/><br/>
 
-<a href="https://github.com/your-username">
-<img src="https://img.shields.io/github/followers/your-username?style=social" />
-</a>
-<a href="https://linkedin.com/in/your-link">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
-</a>
 
 </div>
 
